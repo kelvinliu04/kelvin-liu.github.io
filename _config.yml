@@ -1,7 +1,8 @@
 title: Kelvin Liusiani # your name (or website title) here
 logo: "/images/kelvin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h2>Contact Me</h2>
+  <b style="font-size:21px">Contact Me</b>
+  <br>
   &nbsp;&nbsp;<a href="mailto: kelvinliu04@gmail.com target="_blank"" title="Hi, Kelvin!">Email</a> 
   <br>
   &nbsp;&nbsp;<a href="https://github.com/kelvinliu04">GitHub Profile</a> 
@@ -10,7 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   &nbsp;&nbsp;<a href="https://github.com/kelvinliu04/kelvinliu04.github.io/blob/master/images/resume.pdf">Resume / CV</a> 
   <br>
-  <h2>Portfolio</h2>
+  <b style="font-size:21px">Portfolio</b>
+  <br>
   &nbsp;&nbsp;<a href="/computervision">Computer Vision</a> 
   <br>
   &nbsp;&nbsp;<a href="/ml">Machine Learning</a> 
