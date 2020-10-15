@@ -9,18 +9,19 @@
 
 ---
 
-## People Counting System
-<img src="/images/people_counting.jpg" alt="people-counting">
+## Car Counting System
+<img src="/images/car_counting.jpg" alt="car-counting">
 
-#### Goal
-**Goal:**
-> Counting People in blablablabal
 
-**Technical Details:**
-● using NUC I5
-● OpenVINO Inference
-●
-
- 
+**Goal:** Counting car from CCTV view based on Jakarta-Indonesia road  
+**Feature:**  
+● Edge-Computing  
+● Low budget cost  
+● Real-Time FPS
+**Technical Details:**  
+● Edge-Computing using NUC I5 (CPU-only)  
+● using Mobilenet-V2 SSD  
+● using Intel OpenVINO as an Inference  
+● using Counting and Tracking (Deep-SORT) algorithm  
 
 :memo: ***Video Surveillance, Object Detection***
