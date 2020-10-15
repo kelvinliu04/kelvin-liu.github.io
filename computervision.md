@@ -10,8 +10,11 @@
 ---
 
 ## Car Counting System
+>***Video Surveillance, Object Detection***
+
 <img src="/images/car_counting.png" alt="car-counting">
 
+>***Video Surveillance, Object Detection***
 
 **Goal:** Counting car from CCTV view based on Jakarta-Indonesia road  
 **Feature:**  
@@ -24,4 +27,3 @@
 ● using Intel OpenVINO as an Inference  
 ● using Counting and Tracking (Deep-SORT) algorithm  
 
->***Video Surveillance, Object Detection***
