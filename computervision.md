@@ -13,7 +13,7 @@
 
 ---
 
-## Car Counting System  
+## 1. Car Counting System  
 <img src="/images/car_counting.png" alt="car-counting">
 
 #### Objective:  
@@ -36,7 +36,7 @@
 ---
 
 
-## Face Mask Detection Alarm  
+## 2. Face Mask Detection Alarm  
 <img src="/images/face_mask.png" alt="face-mask">
 
 #### Objective:  
@@ -58,7 +58,7 @@
 
 ---
 
-## Smart Attendance System  
+## 3. Smart Attendance System  
 #### Objective:  
 > Smart attendance system in office using Face Recognition. The employees do not need to stop in front of the camera. There will be no more queue lines.  
 
@@ -78,7 +78,7 @@
 
 ---
 
-## Smart Digital Signage  
+## 4. Smart Digital Signage  
 <img src="/images/digital_signage.png" alt="digital_signage">  
 
 NB: This picture only demo, the real implementation documentation cannot be shared.  
@@ -103,7 +103,7 @@ NB: This picture only demo, the real implementation documentation cannot be shar
 
 ---
 
-## Social Distancing Alarm  
+## 5. Social Distancing Alarm  
 <img src="/images/sosdis_alrm.png" alt="sosdis-alrm">
 
 #### Objective:  
