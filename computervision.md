@@ -5,11 +5,11 @@
 
 ---
 ## Projects:
-   * [Car Counting System](#Car-Counting-System)
-   * [Face Mask Detection Alarm](#Face-Mask-Detection-Alarm)
-   * [Smart Attendance System](#Smart-Attendance-System)
-   * [Smart Digital Signage](#Smart-Digital-Signage)
-   * [Social Distancing Alarm](#Social-Distancing-Alarm)
+   * [Car Counting System](#1.-Car-Counting-System)
+   * [Face Mask Detection Alarm](#2.-Face-Mask-Detection-Alarm)
+   * [Smart Attendance System](#3.-Smart-Attendance-System)
+   * [Smart Digital Signage](#4.-Smart-Digital-Signage)
+   * [Social Distancing Alarm](#5.-Social-Distancing-Alarm)
 
 ---
 
